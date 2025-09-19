@@ -1,10 +1,9 @@
 # CALMC25 Course Materials and Tutorials
 
 ## Course Content:
-Session 0: Python and its scientific modules
-
+###Session 0
+Python and its scientific modules
 Prof: Iribarren
-
 Assist: Klem
 
 Session 1: Intro to SMILES, RDKit & OpenBabel
