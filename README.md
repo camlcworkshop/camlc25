@@ -66,6 +66,7 @@ Prof: Cadge & Moran
 ### Session 12: Cheminformatics and ML in industry
 
 Prof: Luchini
+
 Assist: Dalmau
 
 
