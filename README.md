@@ -2,16 +2,24 @@
 
 ## Course Content:
 Session 0: Python and its scientific modules
+
 Prof: Iribarren
+
 Assist: Klem
 
 Session 1: Intro to SMILES, RDKit & OpenBabel
+
 Prof: Laplaza
+
 Assist: Iribarren
 
+
 Session 2: CREST and conformational searches
+
 Prof: Klem
+
 Assist: Laplaza
+
 
 Session 3: 2D and 3D representations and molecular descriptors
 Prof: Paton
